@@ -1,2 +1,3 @@
-# ML_experiments
-These are three fundamental-covering, Machine Learning operations' experiments that i think cover all that was taught to me in Chandigarh University MLOps - I.
+-> Install the dependencies from 'requirements.txt' using command: pip install -r requirements.txt
+Run the file: python fileName.py
+Change the filename with the actual file name and use the same command. 
